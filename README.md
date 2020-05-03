@@ -7,4 +7,6 @@ Commands:
   "!" + sign
   EX: !leo
       !pisces
+      
+Horoscopes derived from "https://www.horoscope.com/us/index.aspx".
   
